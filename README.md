@@ -25,8 +25,11 @@ La IA adaptó el organigrama y el diccionario al MGPC, formalizó tres necesidad
 - [HU-03 · Recibir el aviso de hito](backlog/HU-03.md)
 - [Documento consolidado](docs/switach.pdf)
 
-## Estado de la revisión
 
-La rama entrega-4 contiene el diseño para revisión sobre main. Para publicar, subir ambas ramas a un repositorio público y abrir un PR desde entrega-4 hacia main. Un par debe revisar el caso de rechazo y el reenvío del aviso y dejar su evaluación en GitHub. Aplicar los ajustes pedidos y resolver la revisión antes de integrar.
+## Evidencia de la entrega individual
 
-Crear tres issues usando las fichas del backlog y agregarlos al mismo GitHub Project. Usar los estados Por Hacer, En Progreso y Listo según el avance efectivo de cada historia. Enlazar los issues desde el PR pertinente. Habilitar lectura pública del tablero, colocar ambos enlaces en la primera página del PDF y comprobarlos sin iniciar sesión. Reemplazar el PDF de la carpeta docs por esa versión y registrar la evidencia real antes de subirla a Moodle.
+[Documento consolidado](docs/switach.pdf) · [Tablero del proyecto](https://github.com/users/brianswitach/projects/1) · [Pull request y revisiones](https://github.com/brianswitach/tpi-organizacion-empresarial-mgpc/pull/4).
+
+El anexo de la página 37 vincula las historias con los controles M3, M5 y M4 de la entrega 2. En el tablero, Estado de diseño refleja la comprobación de la documentación. Estado TPI conserva el avance funcional. Cada issue permite identificar los criterios y consultar la versión examinada.
+
+El cierre documental se preparó con asistencia de IA. La intervención humana acreditada comprende la elección de la modalidad individual y la publicación desde la cuenta del estudiante. El historial del PR permite verificar por separado cualquier revisión externa.
